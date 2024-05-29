@@ -1,0 +1,12 @@
+{
+  "name": "toconline-api",
+  "version": "0.0.1",
+  "description": "Node.js wrapper for TOCOnline REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": ["toconline"],
+  "author": "Leonardo Freire",
+  "license": "ISC"
+}
