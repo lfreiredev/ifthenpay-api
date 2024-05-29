@@ -1,2 +1,2 @@
-# toconline-api
-Node.js wrapper for TOCOnline REST API
+# ifthenpay-api
+Node.js wrapper for IfThenPay REST API
